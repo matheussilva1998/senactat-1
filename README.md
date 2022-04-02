@@ -1,2 +1,2 @@
 # senactat
-Aulas de Rede, Infraestrutura e Servidores GNU/Linux
+Aulas de Rede, Infraestrutura e Servidores GNU/Linuxa
